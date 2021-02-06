@@ -1,7 +1,7 @@
 {
   "name": "react-native-elements",
   "version": "0.1.0",
-  "description": "React Native module for Elements blockchain ",
+  "description": "React Native module for Elements transactions",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/src/index.d.ts",
